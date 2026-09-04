@@ -1,0 +1,14 @@
+D:\JSON Serializer\bin\Debug\net10.0\JSON Serializer.exe
+D:\JSON Serializer\bin\Debug\net10.0\JSON Serializer.deps.json
+D:\JSON Serializer\bin\Debug\net10.0\JSON Serializer.runtimeconfig.json
+D:\JSON Serializer\bin\Debug\net10.0\JSON Serializer.dll
+D:\JSON Serializer\bin\Debug\net10.0\JSON Serializer.pdb
+D:\JSON Serializer\obj\Debug\net10.0\JSON Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\JSON Serializer\obj\Debug\net10.0\JSON Serializer.AssemblyInfoInputs.cache
+D:\JSON Serializer\obj\Debug\net10.0\JSON Serializer.AssemblyInfo.cs
+D:\JSON Serializer\obj\Debug\net10.0\JSON Serializer.csproj.CoreCompileInputs.cache
+D:\JSON Serializer\obj\Debug\net10.0\JSON Serializer.dll
+D:\JSON Serializer\obj\Debug\net10.0\refint\JSON Serializer.dll
+D:\JSON Serializer\obj\Debug\net10.0\JSON Serializer.pdb
+D:\JSON Serializer\obj\Debug\net10.0\JSON Serializer.genruntimeconfig.cache
+D:\JSON Serializer\obj\Debug\net10.0\ref\JSON Serializer.dll
